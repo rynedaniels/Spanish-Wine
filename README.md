@@ -19,7 +19,7 @@ Source: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset
 
 Insight: The number of wine reviews notably increased after 2003. This trend could be reflective of various factors, including a surge in global interest in the Spanish wine industry post-2003. Comprehending the drivers behind this increase can equip our stakeholders with critical insights for capitalizing on emergent market trends and making shrewd decisions about which wines to introduce to the new market.
 
-# **Model Selection, Justification, and Performance
+# **Model Selection, Justification, and Performance** 
 
 ![image](data/model-selection.png)
 
@@ -39,4 +39,4 @@ Benefits of the Tuned GradientBoost Classifier:
 
 **Business Solution:** In conclusion, employing the Tuned GradientBoost model promises more accurate predictions. It can help the distributor optimize marketing efforts, streamline inventory management, and invest in the most promising wines, thereby potentially increasing sales, improving customer satisfaction, and boosting profitability.
  
- 
+ For any additional inquiries, please do not hesitate to - [get in touch](mailto:rynedaniels@gmail.com)
